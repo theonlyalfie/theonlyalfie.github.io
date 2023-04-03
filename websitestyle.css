@@ -1,0 +1,38 @@
+body{
+    background-color: rgba(121, 178, 231, 0.589);
+    }
+    .home-slideshow,.home-slideshow::after{
+        position: relative;
+        width:100%;
+        height:auto;
+        top:0px;
+        left:0px;
+        z-index:0;
+        list-style:none;
+    }
+    .home-slideshow::after{
+        content: '';
+        background:transparent url(file:///C:/Users/user/Pictures/Saved%20Pictures/pehshsakjfi.jpg) repeat top left;
+}
+.home-slideshow,.home-slideshow::after{
+    position: relative;
+    width:100%;
+    height:auto;
+    top:0px;
+    left:0px;
+    z-index:0;
+    list-style:none;
+}
+.home-slideshow::after{
+    content: '';
+    background:transparent url(file:///C:/Users/user/Pictures/Saved%20Pictures/pehshsakjfi.jpg) repeat top left;
+}
+    h2 { text-align: center;
+  text-transform: uppercase;
+  color: #0b0338;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+    p{ text-align: center;
+        color: rgb(12, 26, 231);
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }

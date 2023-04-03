@@ -1,0 +1,37 @@
+<html>
+<head>
+    <title>I'M TRYING SOMETHING</title>
+    <style>
+        TABLE,th, td{
+            border:1px solid black;
+        }
+    </style>
+</head>
+<body>
+    <table style="width:80%"align = "center">
+    <caption> csc503 timetable</caption>
+    <tr>
+        <td width=50%> </td>
+        <th width = 150>monday</th>
+        <th width = 150>tuesday</th>
+        <th width = 150>wednesday</th>
+        <th width = 150>thursday</th>
+        <th width = 150>friday</th>
+    </tr>
+    <tr>
+        <td>6-7pm</td>
+        <td>look at website</td>
+        <td> free </td>
+        <td> free </td>
+    </tr>
+    <tr>
+        <td>7-8pm</td>
+        <td> Take some notes </td>
+        <td>free</td>
+        <td> implementation</td>
+        <td> free </td>
+        <td> free </td>
+    </tr>
+    </table>
+</body>
+</html>
