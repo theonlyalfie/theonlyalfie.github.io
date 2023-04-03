@@ -1,8 +1,0 @@
-    background-color: rgba(121, 178, 231, 0.589);
-    background-image: url(file:///C:/Users/user/Pictures/Saved%20Pictures/peakhehdjdpx1.jpg);
-    background-position: right bottom, left top;
-    background-repeat: no-repeat, repeat;
-    background-size: cover;
-    height:500px;
-    position: relative;
-    background-clip: content-box;
