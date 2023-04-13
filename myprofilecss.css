@@ -1,5 +1,3 @@
-{
-} 
 root{
 	--bg-color:rgb(8, 83, 223);
 	--second-bg-color:#1f1063;
@@ -597,7 +595,7 @@ nav ul li a:hover{
   }
 .about{
 	padding: 60px 120px;
-	background-color:;
+	background-color:#023ee40e;
 	display: flex;
 	justify-content: space-between;
 	border-style: solid;
